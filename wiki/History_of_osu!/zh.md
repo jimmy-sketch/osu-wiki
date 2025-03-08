@@ -33,3 +33,4 @@ osu! 历史的记录，尽在 osu! wiki。
 - [在线排名历史](Online_rankings)
 - [工作人员日志](/wiki/People/Staff_log)
 - [osu! 锦标赛历史](/wiki/Tournaments)
+- [osu! 商店历史物品](/wiki/Past_osu!store_items)
